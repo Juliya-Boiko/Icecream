@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://NataliaLyfar.github.io/icecream",
+  "homepage": "https://juliya-boiko.github.io/Icecream/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /icecream/"
